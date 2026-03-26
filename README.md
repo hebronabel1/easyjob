@@ -18,6 +18,7 @@ EasyJob gives job seekers three AI-powered tools in one place:
 
 ## Architecture
 
+![Architecture](easyjob_architecture.svg)
 ```
 ┌──────────────┐        ┌────────────────────┐        ┌─────────────────┐        ┌──────────────────┐
 │     User     │◀──────▶│   React Frontend   │◀──────▶│  Vercel Proxy   │◀──────▶│  Anthropic API   │
@@ -36,6 +37,7 @@ The frontend handles all file parsing locally in the browser. No resume data is 
 
 ## Screen flow
 
+![Screen flow](easyjob_screen_flow.svg)
 ```
 Password gate
      │
