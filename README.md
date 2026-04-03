@@ -89,7 +89,7 @@ Downloaded resumes follow a strict ATS-friendly format matching standard profess
 
 ## Key features
 
-- Password gate (access code: EasyJob2026)
+- Password gate
 - Dark / light mode toggle
 - Cancel button on all loading screens
 - Back and Home navigation on every screen
