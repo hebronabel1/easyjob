@@ -117,4 +117,4 @@ quizmind-api/            # Separate private repo
 
 ---
 
-Built as a portfolio project demonstrating AI integration, file processing, document generation, and React frontend development.
+Built by Hebron Abel — DePaul University
